@@ -1,0 +1,1 @@
+*value of empty stack = -1.

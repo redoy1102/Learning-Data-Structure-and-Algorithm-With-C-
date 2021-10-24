@@ -1,0 +1,3 @@
+Data adding: Add an item enqueue [Rear, front]
+Data Remove: dequeue
+Queue Rule: First in first out(FIFO)
